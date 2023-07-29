@@ -1,0 +1,9 @@
+What  is  Github?
+      Github is a repository systems where we stored our local data inside of github.com server.
+
+      commands to uplaod data in  github server
+            steps:
+                  create a account on github.com
+                  login to account
+                  create repository on github
+                  download git bash software

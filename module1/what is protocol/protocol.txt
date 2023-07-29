@@ -1,0 +1,11 @@
+What is protocol?
+        Protocol is a set of rules .
+
+    Types:
+      a)http
+           hypertext tranfer protocol 
+           it's not secured.
+      b)https
+           it's secured.
+
+           mime,pop,smtp also protocols. 

@@ -1,0 +1,13 @@
+what is website?
+
+     Collection of webpages or collection of Information is called website.
+
+     ex: https://www.flipkart.com
+
+
+     Types of website:
+        a)Static website
+                User can't be modify and only prodives Information.
+
+        b)Dynamic website
+                User can modify and provides information.

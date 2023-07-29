@@ -1,0 +1,15 @@
+What is URL?
+        URL stands for universal resourse locator.
+
+        ex:https://www.flipkart.com
+
+    Types of URL:
+        a)Absolute URL
+              It open direct home page of website.
+
+        ex:http://www.flipkart.com
+
+        b)Relative URL
+            It open diffrent webpages of website.
+
+        ex:https://www.flipkart.com/viewcart?
